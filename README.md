@@ -1,8 +1,8 @@
-# Apple (AAPL) Stock Price Analysis — 2020 to 2026
+# Apple (AAPL) Stock Price Analysis 2020 to 2026
 
 Exploratory data analysis of Apple Inc. (AAPL) stock performance from January 2020 through July 2026, covering price trends, trading volume, moving averages, monthly returns, and daily volatility.
 
-> Every dataset has a story to tell. This project uses Python to uncover the story hidden in six years of Apple's stock data and turn it into insights investors can act on.
+Every dataset has a story to tell. This project uses Python to uncover the story hidden in six years of Apple's stock data and turn it into insights investors can act on.
 
 ## Project Overview
 
@@ -43,22 +43,6 @@ This notebook pulls historical AAPL stock data directly from Yahoo Finance, clea
 **Daily Percentage Change**
 ![Apple Daily Percentage Change](daily_percentage_change.png)
 
-## Visuals
-
-**Closing Price Trend**
-![Closing Price Trend](closing_price_trend.png)
-
-**Trading Volume Trend**
-![Trading Volume Trend](trading_volume_trend.png)
-
-**Moving Average Analysis**
-![Moving Average Analysis](moving_average_analysis.png)
-
-**Monthly Returns Trend**
-![Monthly Returns Trend](monthly_returns_trend.png)
-
-**Daily Percentage Change**
-![Daily Percentage Change](daily_percentage_change.png)
 
 ## Tools & Libraries
 
