@@ -31,10 +31,12 @@ This notebook pulls historical AAPL stock data directly from Yahoo Finance, clea
 **Closing Price Trend**
 ![Apple Closing Price Trend](closing_price_trend.png)
 
-Closing Price Trend: Plotted AAPL's full closing-price series (2020–2026) to separate genuine trend from daily noise. The stock grew from ~$72 to over $310, with pullbacks in 2022 and early 2025 that recovered rather than reversed — the kind of read that separates a buying dip from a real downturn.
+Closing Price Trend: Plotted AAPL's full closing-price series (2020–2026) to separate genuine trend from daily noise. The stock grew from ~$72 to over $310, with pullbacks in 2022 and early 2025 that recovered rather than reversed the kind of read that separates a buying dip from a real downturn.
 
 **Trading Volume Trend**
 ![Apple Trading Volume Trend](trading_volume_trend.png)
+
+Trading Volume Trend: Tracked daily share volume to flag periods of unusual investor activity. Volume peaked above 400M shares/day in 2020–2021, then trended lower with sporadic spikes in 2024–2026 that typically line up with earnings or major news volume read as a proxy for market attention.
 
 **Moving Average Analysis (7-Day vs 30-Day)**
 ![Apple Moving Average Analysis](moving_average_analysis.png)
