@@ -41,6 +41,8 @@ Trading Volume Trend: Tracked daily share volume to flag periods of unusual inve
 **Moving Average Analysis (7-Day vs 30-Day)**
 ![Apple Moving Average Analysis](moving_average_analysis.png)
 
+Moving Average Analysis — Engineered 7-day and 30-day rolling averages with pandas to separate short-term momentum from the underlying trend. The 7-day line reacts fast to swings while the 30-day smooths them out pairing the two is a standard technique for filtering signal from noise before calling a trend.
+
 **Monthly Returns Trend**
 ![Apple Monthly Returns Trend](monthly_returns_trend.png)
 
