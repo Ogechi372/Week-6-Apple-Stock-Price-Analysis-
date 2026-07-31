@@ -52,6 +52,7 @@ Monthly Returns Trend: Resampled daily prices into monthly averages to strip out
 **Daily Percentage Change**
 ![Apple Daily Percentage Change](daily_percentage_change.png)
 
+Daily Percentage Change: Calculated day-over-day percentage change to quantify volatility and flag outliers. Most days sit within ±3%, with rare spikes to +13%/-8% marking events worth investigating the skill is knowing which fluctuations are noise and which deserve a closer look.
 
 ## Tools & Libraries
 
